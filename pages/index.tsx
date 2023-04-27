@@ -23,9 +23,7 @@ export default function Home() {
         <a href=" https://occipital-road-050.notion.site/b9264d658480462bb90e429419095f1d">
           Notion
         </a>
-        <a href=" https://github.com/gmdmsdud/myhomepage/tree/master/freeBoard ">
-          Git
-        </a>
+        <a href=" https://github.com/gmdmsdud/myhome2 ">Git</a>
       </main>
     </div>
   );
